@@ -1,0 +1,22 @@
+﻿.pad_some_sides{
+	padding-left: 100px;
+	padding-right:100px;
+}
+
+#main-page-background{
+	position: absolute;
+	z-index: 0;
+	top: 0;
+}
+
+.white_text{
+	color:white;
+}
+
+.center{
+	text-align: center;
+}
+body{
+	font-family:Cambria, Georgia, serif;
+	background-color:#4db8ff;
+}
